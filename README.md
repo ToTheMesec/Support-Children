@@ -1,4 +1,4 @@
-# SupportChildren
+# Support Children by ToTheMoon team
 
 ### Go to terminal and run commands:
 ```
